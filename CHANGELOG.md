@@ -1,0 +1,1 @@
+[1.0.0] - Flutter Riverpod Project Template
